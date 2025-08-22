@@ -1,3 +1,7 @@
+# Roblox H-Shifter Emulator
+- Whilst the project is called H-Shifter, it also emulates Steering Wheel and Pedal - Movement to Roblox
+- Report any issues please
+
 **How to install correctly:**
   1. You need to install latest version of Python from [python.org](https://www.python.org/) (Only if you do not have python already)
   2. Then you need to install ViGEmBus Driver [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus/releases)
